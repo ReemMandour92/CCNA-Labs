@@ -1,4 +1,4 @@
-Basic Configuration Lab
+# Basic Configuration Lab
 
 The lab is about configuring a router using console port. In real world, switches and routers are configured using 
 automation tools (not to mention AI is paving the way) like Ansible. But, this is just a preliminary practice to 
