@@ -1,1 +1,6 @@
-
+Routing operation in network is achieved either with static configuration or routing protocol (ex: OSPF). Static Configuration
+is manually adding routes to routing table using IP route command. Adding routes in real network requires full knowledge of 
+networks available in environment to avoid human errors. Static configuration has advantages over protocols in that it is 
+less time consuming (no need to wait for protocol retrieve route), and better performance since CPU, processor and memory 
+are not allocated any resource to protocol(s) up and running. The known disadvantage is it is prone to human error example 
+missing a route, which is avoided using routing protocols.
